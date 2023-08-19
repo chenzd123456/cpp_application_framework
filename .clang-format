@@ -1,2 +1,3 @@
+BasedOnStyle: Webkit
 ColumnLimit: 80
 IndentWidth: 4
